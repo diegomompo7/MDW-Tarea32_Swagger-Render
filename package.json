@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/diegomompo7/MDW-22.2-Node-S12-API-Typescript#readme",
   "dependencies": {
+    "@faker-js/faker": "^8.0.2",
     "@types/swagger-jsdoc": "^6.0.1",
     "@types/swagger-ui-express": "^4.1.3",
     "bcrypt": "^5.1.0",
